@@ -1,0 +1,241 @@
+body{
+	background: #F5F6FA;
+	width: 100%;
+	height: auto;
+}
+header{
+	width: 100%;
+	height: auto;
+}
+header>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.logo{
+	width: 100%;
+	height: auto;
+}
+.logo>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.banner{
+	width: 100%;
+	height: auto;
+}
+.banner>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.ren-main{
+	width: 94%;
+	height: auto;
+	margin:0 auto;
+
+}
+.ren-title{
+	widows: 100%;
+	height: auto;
+	font-size:0.2rem;
+	line-height: 0.82rem;
+}
+.ren-title>a{
+	color:#494747;	
+}
+
+.box{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	margin-bottom: 0.1rem;
+}
+.box-son{
+	width: 100%;
+	height: 0.68rem;
+	/* background: pink; */
+	line-height: 0.68rem;
+	padding-top: 0.24rem;
+	box-sizing: border-box;
+}
+.box-son>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	float: left;
+}
+.box-son .right{
+	float: left;
+	margin-left: 0.2rem;
+	width: 6.42rem;
+	font-size: 0.22rem;
+	line-height: 0.2rem;
+	color: #444444;
+	border-bottom: 0.01rem dashed #999999;
+	padding-bottom: 0.23rem;
+	box-sizing: border-box;
+}
+.rong{
+	width: 100%;
+	padding: 0.05rem 0.1rem 0.1rem 0.35rem;
+	box-sizing: border-box;
+}
+.rong>p{
+	font-size: 0.22rem;
+	line-height: 0.3rem;
+}
+.tu{
+	width: 100%;
+	height: 3.62rem;
+	background: #474747;
+	margin-top: 0.1rem;
+	margin-bottom: 0.1rem;
+}
+.rong .xiahua{
+	padding-bottom: 0.1rem;
+	border-bottom: 0.01rem dashed #999999;
+}
+.fen{
+	width: 100%;
+	height: 0.9rem;
+	padding: 0.24rem 0;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+.fen ul>li{
+	float: left;
+}
+.fen ul>li>span{
+	font-size: 0.22rem;
+	color: #000000;
+}
+.fen ul>li>a>img{
+	display: block;
+	width:0.4rem;
+	height: auto;
+}
+.fen ul>li:nth-child(2){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(3){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(4){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(5){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(6){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(7){
+	margin-left: 1.95rem;
+}
+.fen ul>li:nth-child(8){
+	margin-left: 0.1rem;
+}
+.box1{
+	width: 100%;
+	height: 1.2rem;
+	/* background: pink; */
+	padding: 0.3rem 0;
+	box-sizing: border-box;
+	
+}
+.box1 .son>h2{
+	display: inline-block;
+	font-size: 0.22rem;
+	font-weight: 500;
+	line-height: 0.3rem;
+}
+.box1 .son>a{
+	font-size: 0.22rem;
+	color: #01B5FF;
+}
+
+.que{
+	width: 100%;
+	height: auto;
+	background: #FFF;
+}
+
+.que-son{
+	width: 100%;
+	height: 0.68rem;
+	/* background: pink; */
+	line-height: 0.68rem;
+	padding-top: 0.24rem;
+	box-sizing: border-box;
+}
+.que-son>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	float: left;
+}
+.que-son .right{
+	float: left;
+	margin-left: 0.2rem;
+	width: 6.42rem;
+	font-size: 0.22rem;
+	line-height: 0.2rem;
+	color: #444444;
+	border-bottom: 0.01rem dashed #999999;
+	padding-bottom: 0.23rem;
+	box-sizing: border-box;
+}
+.que-son1{
+	width: 100%;
+	height: 0.68rem;
+	padding-top: 0.2rem;
+	box-sizing: border-box;
+}
+.que-son1>span{
+	display: block;
+	width: 0.12rem;
+	height: 0.12rem;
+	background: #fff;
+	margin-left: 0.15rem;
+	border-radius: 50%;
+	border: 0.02rem solid #01B5FF;
+	float: left;
+	position: relative;
+	margin-top: 0.08rem;
+}
+.que-son1>span>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.04rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	border-radius: 50%;
+	position: absolute;
+	top: 0.04rem;
+	left: -0.16rem;	
+}
+.que-son1 .right{
+	float: left;
+	font-size: 0.22rem;
+	margin-left: 0.1rem;
+}
+.que-son1 .right .lan{
+	color: #01B5FF;
+}
+
+
+.zhuce{
+	width: 100%;
+	height: auto;
+	font-size:0.20rem;
+	line-height: 0.4rem;
+	text-align: center;
+	color:#666666;
+}

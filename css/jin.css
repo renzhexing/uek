@@ -1,0 +1,228 @@
+body{
+	background: #F5F6FA;
+	width: 100%;
+	height: auto;
+}
+header{
+	width: 100%;
+	height: auto;
+}
+header>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.logo{
+	width: 100%;
+	height: auto;
+}
+.logo>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.banner{
+	width: 100%;
+	height: auto;
+}
+.banner>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.ren-main{
+	width: 94%;
+	height: auto;
+	margin:0 auto;
+}
+.ren-title{
+	width:100%;
+	height: auto;
+	font-size:0.2rem;
+	line-height: 0.82rem;
+}
+.ren-title>a{
+	color:#494747;	
+}
+.ren-box{
+	width: 94%;
+	height: 0.8rem;
+	border-radius: 0.1rem;
+	border: 0.01rem solid #01B5FF;
+	box-sizing: border-box;
+	margin: 0 auto;
+	margin-bottom: 0.2rem;
+	background: #fff;
+}
+.ren-son1{
+	width: 33.3333%;
+	height: 100%;
+	background: #01B5FF;
+	font-size: 0.26rem;
+	color: #FFFFFF;
+	border-radius: 0.1rem;
+	line-height: 0.8rem;
+	text-align: center;
+	float: left;
+}
+.ren-son2{
+	width: 33.3333%;
+	height: 100%;
+	background: #fff;
+	font-size: 0.26rem;
+	color: #111111;
+	line-height: 0.8rem;
+	text-align: center;
+	float: left;
+	border-radius: 0.1rem;
+}
+.ren-box1{
+	width: 94%;
+	height: 2.7rem;
+	background: #FFFFFF;
+	padding:0.2rem 0.2rem;
+	box-sizing: border-box;
+	margin-bottom:0.1rem;
+	margin: 0.09rem auto;
+}
+.box-son1{
+	width: 2.3rem;
+	height: 2.31rem;
+	background: #C8C8C8;
+	border-radius: 0.2rem;
+	/*margin-top:0.2rem;*/
+	float: left;
+}
+.box-son1>img{
+	width: 100%;
+	height: auto;
+}
+.box-son2{
+	width: 2.5rem;
+	height:2rem;
+	float:left;
+	margin-top:0.1rem;
+	margin-left:0.2rem;
+	line-height: 0.4rem;
+}
+.box-son2 ul>li>span:nth-child(2){
+	display: block;
+	width: 1.4rem;
+	height: 0.01rem;
+	border-top:0.01rem dashed #727272;
+	box-sizing: border-box;
+}
+.box-son2 ul>li:nth-child(2){
+	font-size: 0.25rem;
+	color:#01B5FF;
+	line-height: 0.44rem;
+}
+.box-son2 ul>li:nth-child(3){
+	font-size: 0.20rem;
+	color:#444444;
+	line-height: 0.25rem;
+}
+.box-son3{
+	float: left;
+}
+.box-son3>a>span{
+	display: inline-block;
+	font-size: 0.26rem;
+	color: #FF9300;
+	line-height: 0.5rem;
+}
+
+.ye{
+	width: 100%;
+	height: 0.7rem;
+	background: #fff;
+	padding-top:0.2rem;
+	padding-left:0.22rem;
+	padding-right:0.22rem;
+	box-sizing: border-box;
+}
+.ye1{
+	width: 0.36rem;
+	height: 0.36rem;
+	border-radius: 50%;
+	border:0.01rem solid #9B9B9B;
+	box-sizing: border-box;
+	float: left;
+	margin-right:0.15rem;
+	position: relative;
+}
+.ye1 input[type="button"]{
+	width: 0.28rem;
+	height: 0.28rem;
+	border-radius: 50%;
+	background: #FFFFFF;
+	border:0.02rem solid #9B9B9B;
+	box-sizing: border-box;
+	font-size: 0.12rem;
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	margin:auto;
+	outline: none;
+}
+.ye1:nth-child(7){
+	width: 0.36rem;
+	height: 0.36rem;
+	border:0rem solid #9B9B9B;
+	box-sizing: border-box;
+	float: left;
+	margin-right:0.15rem;
+	position: relative;
+}
+.ye1:nth-child(10){
+	width: 0.45rem;
+	height: 0.36rem;
+	border:0rem solid #9B9B9B;
+	box-sizing: border-box;
+	float: left;
+	margin-right:0.05rem;
+	line-height: 0.36rem;
+}
+.ye1:nth-child(11){
+	width: 0.58rem;
+	height: 0.34rem;
+	border-radius: 0.2rem;
+	border:0.01rem solid #9B9B9B;
+	box-sizing: border-box;
+	float: left;
+	margin-right:0rem;
+	position: relative;
+}
+.ye1:nth-child(11) input[type="text"]{
+	width: 0.5rem;
+	height: 0.26rem;
+	border-radius: 0.2rem;
+	background: #FFFFFF;
+	border:0.02rem solid #9B9B9B;
+	box-sizing: border-box;
+	font-size: 0.12rem;
+	position: absolute;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	margin:auto;
+	outline: none;
+	text-align: center;
+}
+.ye1:nth-child(12){
+	border:0rem solid #9B9B9B;
+	text-align: center;
+	line-height: 0.36rem;
+}
+.zhuce{
+	width: 100%;
+	height: auto;
+	font-size:0.20rem;
+	line-height: 0.4rem;
+	text-align: center;
+	color:#666666;
+}

@@ -1,0 +1,136 @@
+{
+	"index.html": {
+		"resources": [
+			"img/logo4.png",
+			"img/ding.png",
+			"img/logo8.png",
+			"css/comment.css",
+			"img/banner.png",
+			"img/logo5.png",
+			"img/logo7.png",
+			"img/logo3.png",
+			"img/qq.png",
+			"img/shouye_02.png",
+			"css/shou.css",
+			"img/server2.png",
+			"img/logo6.png",
+			"js/rem.js",
+			"img/shouye_03.png",
+			"img/dian.png",
+			"img/logo1.png",
+			"img/logo2.png",
+			"img/zai.png",
+			"img/server1.png",
+			"img/shouye_01.png",
+			"img/logo.png",
+			"gaoxin.html",
+			"guan.html",
+			"jin.html",
+			"about.html",
+			"meiti.html",
+			"remen.html"
+		],
+		"refer": [
+			"gaoxin.html",
+			"guan.html",
+			"jin.html",
+			"about.html",
+			"meiti.html",
+			"remen.html"
+		]
+	},
+	"gaoxin.html": {
+		"resources": [
+			"css/gao.css",
+			"index.html",
+			"img/fanye.png",
+			"img/ding.png",
+			"img/banner.png",
+			"css/comment.css",
+			"img/logo.png",
+			"js/rem.js"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"guan.html": {
+		"resources": [
+			"img/xuan3.png",
+			"img/ke.png",
+			"index.html",
+			"img/gang1.png",
+			"css/guan.css",
+			"img/gang2.png",
+			"img/gang5.png",
+			"img/xuan4.png",
+			"img/gang4.png",
+			"img/xuan2.png",
+			"img/gang6.png",
+			"img/gang3.png",
+			"img/xinzi.png",
+			"img/xuan1.png"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"jin.html": {
+		"resources": [
+			"img/liulaoshi.png",
+			"css/jin.css",
+			"img/fanye.png",
+			"jin-xiang.html",
+			"index.html"
+		],
+		"refer": [
+			"jin-xiang.html",
+			"index.html"
+		]
+	},
+	"jin-xiang.html": {
+		"resources": [
+			"css/jin-xiang.css",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"about.html": {
+		"resources": [
+			"img/rong2.png",
+			"img/rong3.png",
+			"img/rong1.png",
+			"img/bao.png",
+			"css/about.css",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"meiti.html": {
+		"resources": [
+			"img/mei2.png",
+			"img/mei3.png",
+			"img/mei1.png",
+			"img/fanye.png",
+			"img/meiyi.png",
+			"css/meiti.css",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	},
+	"remen.html": {
+		"resources": [
+			"css/remen.css",
+			"index.html"
+		],
+		"refer": [
+			"index.html"
+		]
+	}
+}

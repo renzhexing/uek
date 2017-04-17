@@ -1,0 +1,199 @@
+
+body{
+	background: #F5F6FA;
+	width: 100%;
+	height: auto;
+}
+header{
+	width: 100%;
+	height: 0.4rem;
+}
+header>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.logo{
+	width: 100%;
+	height: auto;
+}
+.logo>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.banner{
+	width: 100%;
+	height: auto;
+}
+.banner>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+.ren-main{
+	width: 94%;
+	height: auto;
+	margin:0 auto;
+}
+.ren-title{
+	width: 100%;
+	height: auto;
+	font-size:0.2rem;
+	line-height: 0.82rem;
+}
+.ren-title>a{
+	color:#494747;	
+}
+.box{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	margin-bottom: 0.1rem;
+}
+.box-gai{
+	width: 100%;
+	height: 0.68rem;
+	/* background: pink; */
+	line-height: 0.68rem;
+	padding-top: 0.24rem;
+	box-sizing: border-box;
+}
+.box-gai>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	float: left;
+}
+.box-gai .right{
+	float: left;
+	margin-left: 0.2rem;
+	width: 6.42rem;
+	font-size: 0.22rem;
+	line-height: 0.2rem;
+	color: #444444;
+	border-bottom: 0.01rem dashed #999999;
+	padding-bottom: 0.23rem;
+	box-sizing: border-box;
+}
+.rong{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	font-size: 0.22rem;
+	line-height: 0.4rem;
+	padding: 0.1rem 0.0rem 0.1rem 0.4rem;
+	box-sizing: border-box;
+}
+
+
+.box1{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	margin-bottom: 0.1rem;
+}
+.box1-qi{
+	width: 100%;
+	height: 0.68rem;
+	/* background: pink; */
+	line-height: 0.68rem;
+	padding-top: 0.24rem;
+	box-sizing: border-box;
+}
+.box1-qi>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	float: left;
+}
+.box1-qi .right{
+	float: left;
+	margin-left: 0.2rem;
+	width: 6.42rem;
+	font-size: 0.22rem;
+	line-height: 0.2rem;
+	color: #444444;
+	border-bottom: 0.01rem dashed #999999;
+	padding-bottom: 0.23rem;
+	box-sizing: border-box;
+}
+.box1 .rong{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	overflow: hidden;
+}
+.box1 .rong .rong1{
+	width: 33.3333%;
+	height: auto;
+	/* background: pink; */
+	float: left;
+}
+.box1 .rong .rong1>img{
+	display: block;
+	padding: 0.2rem 0 0.2rem 0.41rem;
+	width: 1.33rem;
+}
+
+.box2{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	margin-bottom: 0.1rem;
+}
+.box2-li{
+	width: 100%;
+	height: 0.68rem;
+	/* background: pink; */
+	line-height: 0.68rem;
+	padding-top: 0.24rem;
+	box-sizing: border-box;
+}
+.box2-li>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	float: left;
+}
+.box2-li .right{
+	float: left;
+	margin-left: 0.2rem;
+	width: 6.42rem;
+	font-size: 0.22rem;
+	line-height: 0.2rem;
+	color: #444444;
+	border-bottom: 0.01rem dashed #999999;
+	padding-bottom: 0.23rem;
+	box-sizing: border-box;
+}
+.box2 .rong{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	overflow: hidden;
+	font-size: 0.24rem;
+	line-height: 0.64rem;
+	color: #666666;
+}
+.bao>img{
+	display: block;
+	padding:0.25rem  0 0.25rem 2.67rem;
+	width: 1.7rem;
+	height: auto;
+}
+.zhuce{
+	width: 100%;
+	height: auto;
+	font-size:0.20rem;
+	line-height: 0.4rem;
+	text-align: center;
+	color:#666666;
+}

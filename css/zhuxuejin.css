@@ -1,0 +1,160 @@
+body{
+	background: #F5F6FA;
+	width: 100%;
+	height: auto;
+}
+header{
+	width: 100%;
+	height: auto;
+}
+header>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.logo{
+	width: 100%;
+	height: auto;
+}
+.logo>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+.banner{
+	width: 100%;
+	height: auto;
+}
+.banner>img{
+	display: block;
+	width: 100%;
+	height: auto;
+}
+
+
+.ren-main{
+	width: 94%;
+	height: auto;
+	margin:0 auto;
+	background: #fff;
+
+}
+.ren-title{
+	widows: 100%;
+	height: auto;
+	font-size:0.2rem;
+	line-height: 0.82rem;
+	color:#494747;
+	background: #F5F6FA;
+}
+.ren-title>a{
+	color:#494747;	
+}
+
+.box{
+	width: 100%;
+	height: auto;
+	background: #fff;
+	margin-bottom: 0.1rem;
+}
+.box-son{
+	width: 100%;
+	height: 0.68rem;
+	/* background: pink; */
+	line-height: 0.68rem;
+	padding-top: 0.24rem;
+	box-sizing: border-box;
+}
+.box-son>span{
+	display: block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-left: 0.2rem;
+	float: left;
+}
+.box-son .right{
+	float: left;
+	margin-left: 0.2rem;
+	font-weight: 600;
+	width: 6.42rem;
+	font-size: 0.22rem;
+	line-height: 0.2rem;
+	color: #444444;
+	border-bottom: 0.01rem dashed #999999;
+	padding-bottom: 0.23rem;
+	box-sizing: border-box;
+}
+.box-son1{
+	width: 100%;
+	background: #fff;
+	font-size: 0.22rem;
+	color: #666666;
+	padding: 0.15rem 0.2rem 0.3rem 0.42rem;
+	box-sizing: border-box;
+	line-height: 0.3rem;
+}
+.tu{
+	width: 100%;
+	height: 3.62rem;
+	background: #474747;
+	/* margin-bottom: 0.1rem; */
+}
+.xu{
+	width: 90%;
+	border-bottom: 0.01rem dashed #999999;
+	margin: 0.2rem auto;
+}
+
+.fen{
+	width: 100%;
+	height: 0.9rem;
+	padding: 0.24rem 0;
+	overflow: hidden;
+	box-sizing: border-box;
+}
+.fen ul>li{
+	float: left;
+}
+.fen ul>li>span{
+	font-size: 0.22rem;
+	color: #000000;
+}
+.fen ul>li>a>img{
+	display: block;
+	width: 0.4rem;
+	height: auto;
+}
+.fen ul>li:nth-child(1){
+	margin-left: 0.1rem;
+}
+.fen ul>li:nth-child(2){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(3){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(4){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(5){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(6){
+	margin: 0 0.1rem;
+}
+.fen ul>li:nth-child(7){
+	margin-left: 1.95rem;
+}
+.fen ul>li:nth-child(8){
+	margin-left: 0.1rem;
+}
+
+.zhuce{
+	width: 100%;
+	height: auto;
+	font-size:0.20rem;
+	line-height: 0.4rem;
+	text-align: center;
+	color:#666666;
+}
